@@ -2,4 +2,4 @@ Organisation du TP
 - Deux équipes
 - Deux scénarios : disponible avec deux liens différents
 - Collaboration entre deux équipes
-- Résultat final
+- Résultat final : surprise
