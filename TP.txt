@@ -1,1 +1,3 @@
 Organisation du TP
+- Deux équipes
+- Deux scénarios
