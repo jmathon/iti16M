@@ -1,1 +1,5 @@
 Organisation du TP
+- Deux équipes
+- Deux scénarios
+- Collaboration entre deux équipes
+- Résultat final
